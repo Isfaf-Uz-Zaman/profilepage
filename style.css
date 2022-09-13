@@ -1,0 +1,55 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.main{
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    
+}
+
+.profilepic{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+img{
+
+    border-radius: 25%;
+}
+
+.details{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    color: yellow;
+}
+
+div{
+
+  width: wrap fit-content;
+  padding: 50px;
+  margin: 20px;
+}
+
+.aboutme{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: normal;
+    color: white;
+    
+}
